@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-12T01:51:56 GMT+03:00" name="Default suite" finished-at="2025-06-12T01:52:23 GMT+03:00" duration-ms="27682">
+    <groups>
+    </groups>
+    <test started-at="2025-06-12T01:51:56 GMT+03:00" name="Default test" finished-at="2025-06-12T01:52:23 GMT+03:00" duration-ms="27682">
+      <class name="MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest@54d18072]" started-at="2025-06-12T01:51:56 GMT+03:00" name="setup" finished-at="2025-06-12T01:52:01 GMT+03:00" duration-ms="5202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchForProduct()[pri:5, instance:MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest@54d18072]" started-at="2025-06-12T01:52:01 GMT+03:00" name="SearchForProduct" finished-at="2025-06-12T01:52:08 GMT+03:00" duration-ms="7538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchForProduct -->
+        <test-method signature="ProceedToCheckoutTest()[pri:8, instance:MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest@54d18072]" started-at="2025-06-12T01:52:08 GMT+03:00" name="ProceedToCheckoutTest" finished-at="2025-06-12T01:52:14 GMT+03:00" duration-ms="5949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProceedToCheckoutTest -->
+        <test-method signature="EditCartQuantityOrRemoveItemRandomly()[pri:9, instance:MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest@54d18072]" started-at="2025-06-12T01:52:14 GMT+03:00" name="EditCartQuantityOrRemoveItemRandomly" finished-at="2025-06-12T01:52:17 GMT+03:00" duration-ms="2130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditCartQuantityOrRemoveItemRandomly -->
+        <test-method signature="PrivacyPolicyAccessibilityTest()[pri:10, instance:MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest@54d18072]" started-at="2025-06-12T01:52:17 GMT+03:00" name="PrivacyPolicyAccessibilityTest" finished-at="2025-06-12T01:52:23 GMT+03:00" duration-ms="6492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrivacyPolicyAccessibilityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest@54d18072]" started-at="2025-06-12T01:52:23 GMT+03:00" name="tearDown" finished-at="2025-06-12T01:52:23 GMT+03:00" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
