@@ -7,7 +7,9 @@
         <methods>
           <include name="ViewProductDetails"/>
           <include name="setup"/>
+          <include name="EditCartQuantityOrRemoveItemRandomly"/>
           <include name="tearDown"/>
+          <include name="logoutWithActions"/>
           <include name="AddProductToCartFromDetailsPage"/>
         </methods>
       </class> <!-- MagentoWebsitesAutomate.MagentoWebsitesAutomate.AppTest -->
