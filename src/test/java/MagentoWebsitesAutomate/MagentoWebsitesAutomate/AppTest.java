@@ -343,7 +343,7 @@ public class AppTest {
 		Thread.sleep(2000);
 	}
 
-	@Test(priority = 8, enabled = false)
+	@Test(priority = 8, enabled = true)
 	public void ProceedToCheckoutTest() throws InterruptedException {
 		driver.get("https://magento.softwaretestingboard.com");
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
